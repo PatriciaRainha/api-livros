@@ -4,5 +4,9 @@
     { "id": 2, "titulo": "A cinco passos de você", "autor": "Mikki Daughtry e Tobias Iaconis" },
     { "id": 3, "titulo": "O Duque e Eu" , "autor" : "Julia Quinn" },
     { "id": 4, "titulo": "A Culpa É das Estrelas", "autor": "John Green" },
+    { "id": 5, "titulo": "A Garota do Lago", "autor": "Charlie Donlea" },
+    { "id": 6, "titulo": "Um de nós está mentindo", "autor": "Karen M. McManus" },
+    { "id": 7, "titulo": "Caixa de Pássaros", "autor": "Josh Malerman" },
+    { "id": 8, "titulo": "O Que Aconteceu Com Annie", "autor": "C.J. Tudor" }
     ]
 }
