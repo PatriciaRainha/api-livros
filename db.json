@@ -3,9 +3,9 @@
     { "id": 1, "titulo": "Razão e Sensibilidade", "autor": "Jane Austen" },
     { "id": 2, "titulo": "A cinco passos de você", "autor": "Mikki Daughtry e Tobias Iaconis" },
     { "id": 3, "titulo": "O Duque e Eu" , "autor" : "Julia Quinn" },
-    { "id": 4, "titulo": "A Culpa É das Estrelas", "autor": "John Green" }
-    { "id": 4, "titulo": "A Culpa É das Estrelas", "autor": "John Green" }
-    { "id": 4, "titulo": "A Culpa É das Estrelas", "autor": "John Green" }
-    { "id": 4, "titulo": "A Culpa É das Estrelas", "autor": "John Green" }
+    { "id": 4, "titulo": "A Culpa É das Estrelas", "autor": "John Green" },
+    { "id": 5, "titulo": "A paciente silenciosa", "autor": "Alex Michaelides" },
+    { "id": 6, "titulo": "A mulher na janela", "autor": "A. J. Finn" },
+    { "id": 7, "titulo": "O Gato Preto", "autor": "Edgar Allan Poe" },
     ]
 }
